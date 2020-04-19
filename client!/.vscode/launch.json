@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientMain",
+            "request": "launch",
+            "mainClass": "ClientMain",
+            "projectName": "client_ab90049e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LatchTest",
+            "request": "launch",
+            "mainClass": "test.LatchTest",
+            "projectName": "client_ab90049e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Client"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "client.Client"
+        }
+    ]
+}
